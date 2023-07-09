@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 <p></p>
 <p></p>
 <p></p>
+
 ### Contribution
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shekharkausalye&" alt="hackstarsj" /></p>
@@ -63,4 +64,4 @@ Here are some ideas to get you started:
 <p></p>
 
 ### Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shekharkausalye&show_icons=true&locale=en" alt="shekharkausalye" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shekharkausalye&show_icons=true&locale=en" alt="shekharkausalye" /></p>
