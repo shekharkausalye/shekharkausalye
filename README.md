@@ -49,23 +49,16 @@ Here are some ideas to get you started:
 </p>
 
 ## Profile
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shekharkausalye&show_icons=true&locale=en&layout=compact" alt="shekharkausalye" style="display: contents;max-width: 100%;" /></p>
 
 <br><br>
 <p></p>
-<br><br>
-<p></p>
 
 ## Stats
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shekharkausalye&show_icons=true&locale=en" alt="shekharkausalye" /></p>
 
 <br><br>
 <p></p>
-<br><br>
-<p></p>
 
 ## Contribution
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shekharkausalye&" alt="shekharkausalye" /></p>
