@@ -64,3 +64,6 @@ Here are some ideas to get you started:
 
 ### Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shekharkausalye&show_icons=true&locale=en" alt="shekharkausalye" /></p>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekharkausalye&repo=github-readme-stats)](https://github.com/shekharkausalye/github-readme-stats)
