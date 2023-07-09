@@ -48,20 +48,25 @@ Here are some ideas to get you started:
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
 
-### Profile
+## Profile
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shekharkausalye&show_icons=true&locale=en&layout=compact" alt="shekharkausalye" style="display: contents;max-width: 100%;" /></p>
 
-<p></p>
-<p></p>
-<p></p>
 
-### Contribution
+<br><br>
+<p></p>
+<p></p>
+<br><br>
+<br><br>
+<p></p>
+## Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shekharkausalye&" alt="hackstarsj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shekharkausalye&show_icons=true&locale=en" alt="shekharkausalye" /></p>
+
 
 <p></p>
 <p></p>
+<p></p>
+## Contribution
 
-### Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shekharkausalye&show_icons=true&locale=en" alt="shekharkausalye" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shekharkausalye&" alt="shekharkausalye" /></p>
